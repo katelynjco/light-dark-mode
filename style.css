@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Oooh+Baby&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Oswald&family=Rancho&display=swap');
 
 :root {
-  --primary-color: rgb(255, 92, 114);
+  --primary-color: #ff5c72;
   --primary-variant: #ff2d50;
   --secondary-color: #1b9999;
   --on-primary: rgb(250, 250, 250);
@@ -12,7 +12,7 @@
 }
 
 [data-theme="dark"] {
-  --primary-color: rgb(150, 65, 255);
+  --primary-color: #9641ff;
   --primary-variant: #6c63ff;
   --secondary-color: #03dac5;
   --on-primary: #000;
@@ -43,9 +43,8 @@ section {
 }
 
 h1 {
-  font-family: 'Oooh Baby', sans-serif;
+  font-family: 'Rancho', sans-serif;
   font-size: 100px;
-  letter-spacing: .07em;
   margin-bottom: 0;
 }
 
